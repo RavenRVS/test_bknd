@@ -1,0 +1,4 @@
+2024-03-24 13:24:19,126 django.request ERROR    Internal Server Error: /api/gd
+2024-03-24 13:24:19,126 django.request ERROR    Internal Server Error: /api/gd
+2024-03-24 13:34:27,634 django.request ERROR    Internal Server Error: /api/reg
+2024-03-24 13:34:27,634 django.request ERROR    Internal Server Error: /api/reg

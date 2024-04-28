@@ -1,0 +1,75 @@
+2024-03-24 13:11:10,089 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 13:22:11,256 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 13:23:01,939 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 13:23:07,421 django.request WARNING  Not Found: /
+2024-03-24 13:23:07,421 django.request WARNING  Not Found: /
+2024-03-24 13:23:49,875 django.request WARNING  Method Not Allowed: /api/li
+2024-03-24 13:23:49,875 django.request WARNING  Method Not Allowed: /api/li
+2024-03-24 13:24:19,126 django.request ERROR    Internal Server Error: /api/gd
+2024-03-24 13:24:19,126 django.request ERROR    Internal Server Error: /api/gd
+2024-03-24 13:25:43,550 django.utils.autoreload INFO     D:\YandexDisk\OneDrive\02_Self-development\Netology_FS_Developer\Graduade\sandbox\back\1\testapp\admin.py changed, reloading.
+2024-03-24 13:25:44,024 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 13:26:06,007 django.utils.autoreload INFO     D:\YandexDisk\OneDrive\02_Self-development\Netology_FS_Developer\Graduade\sandbox\back\1\testbackend\urls.py changed, reloading.
+2024-03-24 13:26:06,497 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 13:30:15,610 django.request WARNING  Method Not Allowed: /api/reg
+2024-03-24 13:30:15,610 django.request WARNING  Method Not Allowed: /api/reg
+2024-03-24 13:34:27,524 testapp.views INFO     Регистрация нового аккаунта.
+2024-03-24 13:34:27,634 django.request ERROR    Internal Server Error: /api/reg
+2024-03-24 13:34:27,634 django.request ERROR    Internal Server Error: /api/reg
+2024-03-24 13:34:42,907 testapp.views INFO     Регистрация нового аккаунта.
+2024-03-24 13:37:45,747 testapp.views INFO     Аутентификация.
+2024-03-24 13:41:38,439 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:41:38,439 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:41:43,759 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:41:43,759 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:41:58,534 testapp.views INFO     Запрос данных своего аккаунта id:1
+2024-03-24 13:42:57,329 testapp.views INFO     Обратная аутентификация.
+2024-03-24 13:43:00,479 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:43:00,479 django.request WARNING  Forbidden: /api/gd
+2024-03-24 13:43:06,618 testapp.views INFO     Аутентификация.
+2024-03-24 13:43:19,131 testapp.views INFO     Запрос данных своего аккаунта id:1
+2024-03-24 14:57:08,148 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-24 14:58:11,755 testapp.views INFO     Аутентификация.
+2024-03-24 14:58:24,724 testapp.views INFO     Админ. Получение общих данных.
+2024-03-24 14:58:54,039 testapp.views INFO     Регистрация нового аккаунта.
+2024-03-24 14:59:24,797 testapp.views INFO     Аутентификация.
+2024-03-24 14:59:31,712 testapp.views INFO     Аутентификация.
+2024-03-24 14:59:41,762 testapp.views INFO     Админ. Получение общих данных.
+2024-03-24 16:05:42,606 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:05:42,606 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:06:03,095 testapp.views INFO     Аутентификация.
+2024-03-24 16:06:03,299 testapp.views INFO     Запрос данных своего аккаунта id:1
+2024-03-24 16:06:03,351 testapp.views INFO     Админ. Получение общих данных.
+2024-03-24 16:06:42,867 testapp.views INFO     Обратная аутентификация.
+2024-03-24 16:06:42,917 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:06:42,917 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:08:29,578 testapp.views INFO     Аутентификация.
+2024-03-24 16:08:29,733 django.request WARNING  Not Found: /api/li
+2024-03-24 16:08:29,733 django.request WARNING  Not Found: /api/li
+2024-03-24 16:08:29,776 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:08:29,776 django.request WARNING  Forbidden: /api/gd
+2024-03-24 16:08:54,048 testapp.views INFO     Аутентификация.
+2024-03-24 16:08:54,482 testapp.views INFO     Запрос данных своего аккаунта id:2
+2024-03-24 16:09:39,252 testapp.views INFO     Загрузка файла на сервер id:2.
+2024-03-28 21:12:51,332 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-28 21:26:37,041 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:26:37,041 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:30:16,407 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:30:16,407 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:32:11,738 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:32:11,738 django.request WARNING  Not Found: /api/auth
+2024-03-28 21:33:02,108 testapp.views INFO     Аутентификация.
+2024-03-28 21:35:30,584 testapp.views INFO     Аутентификация.
+2024-03-28 21:40:24,073 testapp.views INFO     Аутентификация.
+2024-03-28 21:43:45,883 testapp.views INFO     Аутентификация.
+2024-03-28 21:45:17,193 testapp.views INFO     Аутентификация.
+2024-03-28 21:45:48,560 testapp.views INFO     Аутентификация.
+2024-03-31 20:45:38,744 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-03-31 20:46:06,311 testapp.views INFO     Аутентификация.
+2024-04-21 20:14:30,760 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-21 20:14:54,526 testapp.views INFO     Аутентификация.
+2024-04-21 20:15:54,730 testapp.views INFO     Запрос данных своего аккаунта id:1
+2024-04-22 07:58:33,744 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-22 07:58:58,985 testapp.views INFO     Аутентификация.
+2024-04-22 08:00:13,935 testapp.views INFO     Аутентификация.
+2024-04-28 12:59:49,192 django.utils.autoreload INFO     Watching for file changes with StatReloader
